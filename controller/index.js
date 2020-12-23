@@ -1,0 +1,1 @@
+export { getUserController } from './user'
